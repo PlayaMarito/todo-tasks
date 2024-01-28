@@ -1,13 +1,12 @@
 # PSTI Tasks
 
-PSTI Tasks es una aplicación para gestionar tareas, desplegada en Heroku y construida con NodeJS, Express, MongoDB y Vue.
+PSTI Tasks es una aplicación para gestionar tareas, construida con NodeJS, Express, MongoDB y Vue.
 
 ## Requisitos
 
 ### En Línea
 - Cuenta en [GitHub](https://github.com) (opcional)
 - Cuenta en [MongoDB Cloud](https://cloud.mongodb.com)
-- Cuenta en [Heroku](https://heroku.com)
 
 ### Instalados
 - [Postman](https://www.postman.com) (opcional)
