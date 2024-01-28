@@ -1,0 +1,15 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CarlosDev",
+  "license": "ISC",
+  "description": "Web API de tareas usando Express y mongoDB",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}
